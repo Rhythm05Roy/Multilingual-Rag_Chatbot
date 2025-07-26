@@ -1,0 +1,12 @@
+google-generativeai
+pypdf
+numpy
+scikit-learn
+fastapi
+uvicorn
+evaluate
+pytesseract
+pdf2image
+nltk
+streamlit
+pydantic
