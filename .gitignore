@@ -64,4 +64,4 @@ ENV/
 
 # Project files to ignore
 .env
-test.py
+test.ipynb
