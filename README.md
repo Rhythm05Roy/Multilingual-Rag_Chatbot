@@ -618,5 +618,3 @@ def process_large_pdf(pdf_path):
 - **Async Processing**: Implement async operations for better throughput
 
 ---
-
-**Built with ❤️ for the Bengali and English language communities**
